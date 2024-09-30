@@ -80,4 +80,5 @@ plt.show()
 ![image](https://github.com/user-attachments/assets/45a57b12-98a3-4462-a7c6-25193c492e0b)
 
 ## RESULT:
-     Thus, the program to detect the lines using Hough Transform implemented successfully.
+
+Thus, the program to detect the lines using Hough Transform implemented successfully.
