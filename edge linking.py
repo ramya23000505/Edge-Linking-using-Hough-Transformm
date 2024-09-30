@@ -48,7 +48,7 @@ plt.title("Result Image")
 plt.axis("off")
 plt.show()
 ## Display the result
-## Developed by :
-## Reg no : 
+## Developed by : SARAVANA KUMAR M
+## Reg no : 212222230133
 
 
