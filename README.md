@@ -50,7 +50,6 @@ plt.title("Canny Edge Detector")
 plt.axis("off")
 plt.show()
 ```
-
 ### Hough Line Transform
 ```
 lines = cv2.HoughLinesP(canny, 1, np.pi/180, threshold=80, minLineLength=50, maxLineGap=250)
@@ -61,10 +60,8 @@ plt.imshow(img_c)
 plt.title("Result Image with Hough Transform")
 plt.axis("off")
 plt.show()
-
 ```
 ## Output
-
 ### Input image and grayscale image
 ![image](https://github.com/user-attachments/assets/6a456025-44fb-4dba-b621-585c9601ee58)
 
@@ -75,5 +72,4 @@ plt.show()
 ![image](https://github.com/user-attachments/assets/45a57b12-98a3-4462-a7c6-25193c492e0b)
 
 ## RESULT:
-
 Thus, the program to detect the lines using Hough Transform implemented successfully.
