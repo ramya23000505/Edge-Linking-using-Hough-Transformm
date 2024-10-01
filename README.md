@@ -67,13 +67,14 @@ plt.show()
 ```
 ## Output
 ### Input image and grayscale image
-![image](https://github.com/user-attachments/assets/6a456025-44fb-4dba-b621-585c9601ee58)
+![Screenshot 2024-10-01 185105](https://github.com/user-attachments/assets/648b27a5-c565-43f1-a23e-3cbf2c576642)
 
 ### Canny Edge detector output
-![image](https://github.com/user-attachments/assets/4e7a3366-22b1-4d1c-ad39-4513fa9cb6e4)
+![Screenshot 2024-10-01 185114](https://github.com/user-attachments/assets/3b79275b-8f97-4066-89a5-16cb3dc9c596)
 
 ### Display the result of Hough transform
-![image](https://github.com/user-attachments/assets/45a57b12-98a3-4462-a7c6-25193c492e0b)
+![Screenshot 2024-10-01 185121](https://github.com/user-attachments/assets/4db93690-f3eb-4d3c-a28d-70d6a180fe19)
+
 
 ## RESULT:
 Thus, the program to detect the lines using Hough Transform implemented successfully.
