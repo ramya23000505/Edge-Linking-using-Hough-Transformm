@@ -67,8 +67,7 @@ plt.show()
 ```
 ## Output
 ### Input image and grayscale image
-![Uploading Screenshot 2024-10-01 185419.png…]()
-
+![Screenshot 2024-10-01 185419](https://github.com/user-attachments/assets/e3db0f18-ef8b-46bf-abfb-21cad6dad5d3)
 
 ### Canny Edge detector output
 ![Screenshot 2024-10-01 185114](https://github.com/user-attachments/assets/3b79275b-8f97-4066-89a5-16cb3dc9c596)
