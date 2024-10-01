@@ -1,5 +1,5 @@
 # In[ ]:## Read image and convert it to grayscale image
-## Developed by : Ramya r
+## Developed by : Ramya R
 ## Reg no : 212223230169
 import numpy as np
 import cv2
